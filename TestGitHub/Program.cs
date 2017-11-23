@@ -11,6 +11,7 @@ namespace TestGitHub
         static void Main(string[] args)
         {
             Console.WriteLine("first try");
+            Console.WriteLine("FeatureA trial 1");
         }
     }
 }
