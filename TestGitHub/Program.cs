@@ -14,6 +14,7 @@ namespace TestGitHub
             Console.WriteLine("FeatureA trial 1");
             Console.WriteLine();
             Console.WriteLine("2");
+            Console.WriteLine("3");
         }
     }
 }
